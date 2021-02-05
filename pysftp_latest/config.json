@@ -1,0 +1,9 @@
+{
+    "HOSTNAME":"13.232.144.25",
+    "HOST_USERNAME":"centos",
+    "HOST_PASS":"Admin@123",
+    "INSTANCE_URL":"https://houstontxdev.service-now.com/api/cioh/purchase_requisition",
+    "MID_SERVER_USERNAME":"mid.temp",
+    "MID_SERVER_PASSWORD":"Admin@123",
+    "SFTP_FILE_ADDR":"/home/centos/Interfaces/QRA/Outbound/1261/Work"
+ }
